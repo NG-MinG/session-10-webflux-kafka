@@ -1,4 +1,4 @@
-# Session 07 - Kafka + Spring Boot (Maven)
+# Session 10 - Kafka + Spring Boot (Maven)
 
 Demo tích hợp Apache Kafka với Spring Boot bằng Maven, gồm 2 service độc lập:
 
